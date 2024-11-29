@@ -5,9 +5,9 @@ Works with Luna And Solara and many other high level executors.
 
 script: 
 ```lua
-script:
 
-loadstring(game:HttpGet("https://pastejustit.com/raw/ui9ub80ixl"))()```
+loadstring(game:HttpGet("https://pastejustit.com/raw/ui9ub80ixl"))()
+```
 
 
 
